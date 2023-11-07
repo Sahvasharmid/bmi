@@ -1,0 +1,51 @@
+*{
+background-color:rgba(210, 202, 202, 0);
+}
+.btn{
+margin-top: 5px;
+}
+#bmi1,#bmi2{
+
+  margin: auto;
+  border:1px solid rgb(178, 169, 169);
+  box-shadow: 5px 5px 5px 5px grey;
+  padding-top: 20px;
+}
+#bmi1{
+  width: 50%;
+}
+#bmi2{
+  width: 80%;
+  margin: auto;
+}
+#bmifluid
+{
+  padding-top: 20px;
+}
+.form-control{
+  width: 100%;
+  margin: auto;
+}
+
+.tr{
+  width: 80%;
+  margin: auto;
+
+}
+
+.heading{
+  text-align: center;
+}
+.bmiscore{
+  border: 1px solid aquamarine;
+  text-align: center;
+  background-color:aquamarine ;
+  width: 40%;
+  margin: auto;
+  padding: 20px;
+  margin-bottom: 2px;
+}
+.grid{
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
